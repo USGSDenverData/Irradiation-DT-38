@@ -1,0 +1,26 @@
+{
+    "deflections": {
+        "AX": 0.0,
+        "H1": 0.0,
+        "H2": 0.0,
+        "L1": 0.0,
+        "L2(CDD)": 0.0
+    },
+    "gains": {
+        "AX": 1,
+        "H1": 1,
+        "H2": 1,
+        "L1": 1,
+        "L2(CDD)": 1
+    },
+    "spectrometer": {
+        "ElectronEnergy": 123.674540682415,
+        "ExtractionFocus": 0.0,
+        "ExtractionLens": 18.29,
+        "ExtractionSymmetry": 0.0,
+        "HV": 9.9,
+        "IonCounterVoltage": 0.0,
+        "IonRepeller": -3.67,
+        "YSymmetry": 19.07
+    }
+}
